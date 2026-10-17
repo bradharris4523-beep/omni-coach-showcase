@@ -48,6 +48,17 @@ Major architectural components include:
 
 The private implementation is organized around separating computational analysis, external AI services, background processing, and user-facing experiences.
 
+
+## Technical Documentation
+
+Explore the engineering behind Omni Coach:
+
+- [System Architecture](ARCHITECTURE.md) — Application design, replay processing, AI architecture, background workers, and infrastructure.
+- [Product Gallery](#product-gallery) — Screenshots of the application and cinematic marketing experience.
+
+The application source code remains private. This repository provides a public technical overview of the project.
+
+
 ## Core Product Systems
 
 ### 01 — Match Analysis
