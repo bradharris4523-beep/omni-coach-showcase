@@ -170,7 +170,18 @@ The project is presented as a technical engineering showcase rather than an open
 
 ## Product Gallery
 
-Screenshots from an earlier Omni Coach application experience.
+
+### Cinematic Marketing Experience
+
+A redesigned marketing experience featuring custom 3D assets, cinematic visual storytelling, and scroll-controlled animation.
+
+![Omni Coach Marketing Experience](Omni%20Marketing%20Expirence%20.png)
+
+*Omni Coach — Cinematic Marketing Homepage.*
+
+### Application Interface Gallery
+
+Screenshots showcasing Omni Coach's earlier application experience.
 
 <table>
 <tr>
